@@ -1,0 +1,31 @@
+#avance{
+    margin-top: 5%;
+    margin-left: 17.5%;
+}
+#recule{
+    
+    margin-left: 17.5%;
+}
+
+#tournedroite{
+    margin-left: 10%;
+    margin-bottom: 3%;
+   
+}
+#tournegauche{
+   margin-right: 5%;
+    
+}
+#tourne{
+    margin-top: 2%;
+    display:flex;
+}
+#deplacement{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color: darkgray;
+    border-radius: 10px;
+    padding : 1%;
+    margin-right: 50%;
+    
+}
